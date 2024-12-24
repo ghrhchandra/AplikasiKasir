@@ -53,7 +53,7 @@
 <body>
     <div class="form-container">
         <div class="text-center mb-4">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Pati.png" alt="Logo" class="mb-2">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Lambang_Kabupaten_Pati.png" alt="Logo" class="mb-35">
             <h2>Create a New Account</h2>
             <p>Enter your details to register</p>
         </div>
